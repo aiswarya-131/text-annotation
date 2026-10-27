@@ -1,0 +1,21 @@
+ID,Text,Sentiment,Intent,Needs_Escalation,Reason
+T001,I love this product! It works exactly as promised.,Positive,Feedback,No,Expresses satisfaction with the product
+T002,"My order has not arrived,and it has been two weeks.",Negative,Complaint,Yes,Reports a delayed order
+T003,Can you tell me the price of this product,Neutral,Product Inquiry,No,Asks for a product pricing
+T004,"The Quality is good,but the packaging was terrible.",Mixed,Complaint,No,Praises Quality but criticizes the packaging
+T005,I want a refund immediately.Nobody is responding to my complaints.,Negative,Refund Request,Yes,Requesting for refund due to unresloved complaints
+T006,Thank you for the quick delivery.,Positive,Feedback,No,Appreciating the fast delivery
+T007,The app keeps crashing whenever i try to log in.,Negative,Technical Support,Yes,Reports technical issue regarding login
+T008,What are your working hours?,Neutral,General Inquiry,No,Asking about working hours
+T009,This is the worst purchase i have ever made.,Negative,Complaint,No,Expresses strong disatisfaction with a purchase
+T010,"The product arrived today, and i have not tried it yet.",Neutral,General Inquiry,No,Reports a product delivery but has not evaluated yet
+T011, The customer service team solved my issue quickly.,Positive,Feedback,No,Praises the service team for resloving an issue quickly
+T012,I received the wrong item in my package.,Negative,Complaint,Yes,Reports receiving the wrong product
+T013,Does this product come in other colours?,Neutral,Product Inquiry,No,Asking about product availability in some other colours
+T014,"The price is reasonable, but delivery was very slow.",Mixed,Complaint,No,Praising the pricing but criticizing the slow delivery
+T015,Please cancel my order and refund my payment.,Neutral,Refund Request,Yes,Requesting for cancellation of order and refund
+T016,The website is easy to use.,Positive,Feedback,No,Expresses satisfaction while using the website
+T017,I cannot reset my password.,Neutral,Technical support,Yes,Reports a technical issue regarding password cannot be reset
+T018, When will my order be delivered?,Neutral,General Inquiry,No,Asking about when will the product be delivered
+T019, I regret buying this product.,Negative,Complaint,No,Expresses strong disatisfaction with a purchase
+T020,"My package arrived today, and everything looks fine",Positive,Feedback,No,Reports a product delivery and does not have any issues
